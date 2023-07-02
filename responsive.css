@@ -1,0 +1,110 @@
+
+ @media (max-width: 1280px){
+    .nav{
+        width: 80%;
+    }
+
+}
+@media (max-width: 1024px){
+    .nav{
+        width: 90%;
+    }
+}
+@media (max-width: 927px){
+    .box1{
+        margin: 10px 4px;
+    }
+    .box2{
+        margin: 4px
+    }
+    .flex2{
+        width: 80%;
+    }
+}
+@media (max-width: 800px){
+    .top{
+        /* background-position: top; */
+        height: 700px;
+    }
+}
+@media (max-width: 767px){
+    .nav{
+        width: 95%;
+        
+    }
+    .manu{
+        display: none;
+    }
+    .bars{
+        display: block;
+    }
+    .acount{
+        display: none;
+    }
+    .acount2{
+        display: block;
+    }
+    .mid{
+        width: 100%;
+    }
+    .imgc{
+        width: 100%;
+    }
+    .videoc{
+        width: 100%;
+    }
+    .flex2{
+        width: 100%;
+    }
+    h1{
+        margin-top: 30px;
+        font-size:20px;
+    }
+    h2{
+        margin-top: 18px;
+        font-size: 45px;
+    }
+    .sign-up{
+        margin-top: 22px;
+        width: 150px;
+        padding: 15px 0;
+    }
+    .top{
+        height: 500px;
+    }
+} 
+@media (max-width: 480px){
+    .nav{
+        width: 100%;
+    }
+    #manu2{
+        width: 80%;
+    }
+    .mid{
+        width: 100%;
+    }
+    .box1{
+        max-width: 95%;
+    }
+    h1{
+        margin-top: 30px;
+        font-size:20px;
+    }
+    h2{
+        margin-top: 18px;
+        font-size: 45px;
+    }
+    .sign-up{
+        margin-top: 22px;
+        width: 150px;
+        padding: 15px 0;
+    }
+    .top{
+        height: 410px;
+    }
+    .box2{
+        width: 110px;
+        margin: 4px;
+    }
+
+}
